@@ -1,5 +1,7 @@
 # Transformer for captioning
 
+# Note: This repository is deprecated, and the code has been merged to [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch). The same training script should work for self-critical too.
+
 This is an experiment to use transformer model to do captioning. Most of the code is copy from [Harvard detailed tutorial for transformer(http://nlp.seas.harvard.edu/2018/04/03/attention.html).
 
 Also, notice, this repository is a fork of my [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch) repository. Most of the code are shared.
